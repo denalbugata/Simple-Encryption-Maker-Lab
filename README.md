@@ -13,7 +13,7 @@ This is a simple Python script that takes inspiration from the common Caesar Cip
 
 - <b>Windows 11</b>
 
-<h2>Program Code:</h2>
+<h2>Program Walkthrough:</h2>
  
  <b>Step 1: This line imports the string module which will be used to check if characters in the text are letters.</b>
 
