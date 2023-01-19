@@ -1,7 +1,7 @@
 <h1>Simple Encryption Maker Lab</h1>
 
 <h2>Description</h2>
-This is a Python script that implements a Caesar Cipher encryption. The script first imports the string module. Next, it defines a function called "encrypt" which takes two parameters, the text to be encrypted and the key (shift value). Inside the function, it creates an empty string that will be used to store the encrypted text. It iterates through each character in the text, checking if the character is a letter, if true, it shifts the letter by the key using ord() and chr() functions. Then it adds the shifted letter to the encrypted text. Finally, it returns the encrypted text. It then tests the function by defining a text and key value and calls the function, encrypting the text, and printing the encrypted text.
+This is a simple Python script that takes inspiration from the common Caesar Cipher encryption model. The script first imports the string module. Next, it defines a function called "encrypt" which takes two parameters, the text to be encrypted and the key (shift value). Inside the function, it creates an empty string that will be used to store the encrypted text. It iterates through each character in the text, checking if the character is a letter, if true, it shifts the letter by the key using ord() and chr() functions. Then it adds the shifted letter to the encrypted text. Finally, it returns the encrypted text. It then tests the function by defining a text and key value and calls the function, encrypting the text, and printing the encrypted text.
 <br />
 
 
